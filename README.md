@@ -1,4 +1,4 @@
-# CPRO 2211: Java Assignment I
+# CPRO 2221: Java Assignment I
 ## Authors
 - Aron Limos
 - Sikanderdeep (Github Username: Flazer)
